@@ -1,6 +1,7 @@
 # Compiled class file
 *.class
-
+#Ignoramos la carpeta sandbox
+/sandbox
 # Log file
 *.log
 
